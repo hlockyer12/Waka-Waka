@@ -1,0 +1,24 @@
+-------- README --------
+
+The Soda Can Extension was added to this system. 
+An updated Symbol list for the Map text files is found below:
+
+0 - Empty
+1 - Horizontal Wall
+2 - Vertical Wall
+3 - Up Left Wall
+4 - Up Right Wall
+5 - Down Left Wall
+6 - Down Right Wall
+7 - Fruit Piece
+8 - Super Fruit
+9 - Soda Can
+p - Waka start
+a - Ambusher start
+c - Chaser start
+i - Ignorant start
+w - Whim start
+
+ConfigTest.JSON was used in JUnit Test Cases
+
+Extra Map Text Files submitted to aid with JUnit Test Cases
